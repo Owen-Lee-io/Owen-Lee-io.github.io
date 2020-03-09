@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on 星如雨</title>
+    <link>https://owen-lee-io.github.io/categories/life/</link>
+    <description>Recent content in life on 星如雨</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://owen-lee-io.github.io/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first blog</title>
+      <link>https://owen-lee-io.github.io/post/myfirstblog/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://owen-lee-io.github.io/post/myfirstblog/</guid>
+      <description>YI一级标题 Be vigilant,Keep on learning 二级标题</description>
+    </item>
+    
+  </channel>
+</rss>
